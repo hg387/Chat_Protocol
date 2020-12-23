@@ -16,11 +16,13 @@ Here are the credentials and channel rights used for logging in and
 sending messages:
 
 User Database: 
+
 [Username Password Rights] => 
 [Admin 123456 admin] 
 [ik363 123456 Not admin] 
 [hg387 123456 Not admin]
 [mtk24 123456 Not admin]
+
 
 Sample CONNECT command: \CONNECT hg387@192.168.1.169:8081 V1.0 -u
 
@@ -73,3 +75,5 @@ acks client exit request, once the client receives server acks, then
 client closes its socket and streams. Simultaneously, the server closes
 the socket and streams. This ensures that the connection closes
 properly.
+
+
