@@ -16,18 +16,18 @@ Here are the credentials and channel rights used for logging in and
 sending messages:
 
 User Database: 
-Username Password Rights 
-Admin 123456 admin 
-ik363 123456 Not admin 
-hg387 123456 Not admin 
-mtk24 123456 Not admin
+[Username Password Rights] => 
+[Admin 123456 admin] 
+[ik363 123456 Not admin] 
+[hg387 123456 Not admin]
+[mtk24 123456 Not admin]
 
 Sample CONNECT command: \CONNECT hg387@192.168.1.169:8081 V1.0 -u
 
-Channels Database Name Users 
-Channel1 "hg387", "mtk24", "Admin" 
-Channel2 "hg387", "ik363", "Admin"
-Channel3 "hg387", "Admin"
+[Channels Database Name Users] => 
+[Channel1 "hg387", "mtk24", "Admin"] 
+[Channel2 "hg387", "ik363", "Admin"]
+[Channel3 "hg387", "Admin"]
 
 Analysis
 
