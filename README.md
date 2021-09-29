@@ -17,7 +17,7 @@ sending messages:
 
 User Database: 
 Username Password Rights 
-Admin 123456 admin 
+    Admin 123456 admin 
 ik363 123456 Not admin 
 hg387 123456 Not admin 
 mtk24 123456 Not admin
